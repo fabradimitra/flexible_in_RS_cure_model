@@ -1,5 +1,5 @@
 # flexible_in_RS_cure_model
-We relaxed the parametric assumption of the relation between cure fraction and covariates in the context of relative survival Weibull cure model, by using Generalized Additive Models (GAM) and one-hidden layer Neural Networks. This repository contains three simulation study used to assess the performance of the proposed models against the standard model which uses a Generalized Linear Model (GLM) instead.
+We relaxed the parametric assumption of the relation between cure fraction and covariates in the context of relative survival Weibull cure model, by using Generalized Additive Models (GAM) and one-hidden layer Neural Networks. This repository contains three simulation study used to assess the performance of the proposed models against the standard model which uses a Generalized Linear Model (GLM) instead. The methodology is described here: https://doi.org/10.48550/arXiv.2504.05093
 
 #### (i) GLM model: Weibull mixture cure model with GLM in the cure fraction.
 #### (ii) GAM model: Weibull mixture cure model with GAM in the cure fraction.
